@@ -9,5 +9,5 @@ tqdm==4.26.0
 PyYAML==5.4
 matplotlib==2.2.3
 ipdb==0.12.2
-numpy==1.14.5
+numpy==1.22.0
 scipy==1.1.0
