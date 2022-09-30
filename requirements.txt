@@ -1,5 +1,5 @@
 editdistance==0.5.3
-joblib==0.12.4
+joblib==1.2.0
 librosa==0.6.2
 pydub==0.23.0
 pandas==0.23.4
